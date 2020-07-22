@@ -24,6 +24,8 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
+* [Dia 02 - Loader animado](#id02)
+* [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
 
 
 ####  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -47,3 +49,38 @@ Cores utilizadas:
 `Google + #dd4b39`
 `LinkedIn #0077b5`
 `Instagram #e4405f`
+
+
+##  Desafio dia 02 - Loader animado <a name="id02"></a>
+![dia02](https://user-images.githubusercontent.com/37448340/87999843-769a7b80-cad2-11ea-9e1a-2958e9c14f76.gif)
+
+[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2002)
+
+[Tutorial Medium]()
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6691381608261464064/)
+
+##### Dicas
+
+* *foi usado 3 div* 
+* *font family utilizada foi a verdana*
+* *Use [animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+
+##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
+
+<img src="Desafios/dia 03/gif/dia03.gif">
+
+
+[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2003)
+
+[Tutorial Medium]()
+
+[Post LinkedIn]()
+
+
+##### Dicas
+
+* *[CSS Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
+* *Use [animations](https://www.w3schools.com/css/css3_animations.asp)*
