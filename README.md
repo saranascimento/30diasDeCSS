@@ -54,11 +54,6 @@ Cores utilizadas:
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
 ![dia02](https://user-images.githubusercontent.com/37448340/87999843-769a7b80-cad2-11ea-9e1a-2958e9c14f76.gif)
 
-[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2002)
-
-[Tutorial Medium]()
-
-[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6691381608261464064/)
 
 ##### Dicas
 
@@ -72,12 +67,6 @@ Cores utilizadas:
 
 <img src="Desafios/dia 03/gif/dia03.gif">
 
-
-[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2003)
-
-[Tutorial Medium]()
-
-[Post LinkedIn]()
 
 
 ##### Dicas
