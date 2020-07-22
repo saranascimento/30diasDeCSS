@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+    position: relative;
+    width: 50%;
+    background-color: #3332e6;
+    overflow: hidden;
+}
+
+.content:nth-child(1) {
+    background-color: violet;
+}
+
+.content h2 {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 12em;
+    line-height: 100vh;
+    color: violet;
+    animation: animate 40s linear infinite;
+}
+
+.content:nth-child(1) h2 {
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: #3332e6;
+    -webkit-text-fill-color: #3332e6;
+    left: 100%;
+}
+
+@keyframes animate {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
